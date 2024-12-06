@@ -48,7 +48,7 @@ This project is in the **conceptual and early development** stage. The team is f
 ## 🤝 **Contributing**  
 
 We welcome ideas and feedback to help shape the project!  
-If you're interested in contributing, reach out to us at **tejaschaudhari131@gmail.com**.  
+If you're interested in contributing, reach out to us at **tejaschaudhari131@gmail.com** or **adityajoshi020503@gmail.com**.  
 
 ---
 
